@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+jupyter = "~=1.0"
+mesa = "*"
+ipynb = "*"
+axelrod = "*"
+statsmodels = "~=0.12"
+salib = "*"
+pandas = "*"
+numpy = "*"
+matplotlib = "*"
